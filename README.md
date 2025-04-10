@@ -54,6 +54,11 @@ Example: [New York City-Albany – listings.csv.gz](http://data.insideairbnb.com
 - Matplotlib / Seaborn (EDA)
 
 ---
+## ✅ How to Run Locally
 
-## 📂 Project Structure
+```bash
+git clone https://github.com/yourusername/airbnb-price-predictor.git
+cd airbnb-price-predictor
+pip install -r requirements.txt
+streamlit run app.py
 
